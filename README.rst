@@ -355,7 +355,7 @@ Python
 * `cookiecutter-pyqt4`_: A prebuilt PyQt4 GUI template with a logging support, structure for tests and separation of ui and worker components.
 * `cookiecutter-xontrib`_: A template for building xontribs, a.k.a `xonsh`_ contributions
 * `cookiecutter-conda-python`_: A template for building Conda Python packages
-* `cookiecutter-pypackage-rust-cross-platform-publish`_: A template for a Python wheel containing a Rust binary module that supports releasing on Windows, OSX and Linux. 
+* `cookiecutter-pypackage-rust-cross-platform-publish`_: A template for a Python wheel containing a Rust binary module that supports releasing on Windows, OSX and Linux.
 
 .. _`cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
 .. _`cookiecutter-pipproject`: https://github.com/wdm0006/cookiecutter-pipproject
@@ -603,9 +603,10 @@ Kotlin
 ~~~~~~
 
 * `cookiecutter-kotlin-gradle`_: A bare-bones template for Gradle-based Kotlin projects.
+* `cookiecutter-spring-kotlin`_: A template for Gradle-based Kotlin spring boot projects.
 
 .. _`cookiecutter-kotlin-gradle`: https://github.com/thomaslee/cookiecutter-kotlin-gradle
-
+.. _`cookiecutter-spring-kotlin`: https://github.com/m-x-k/cookiecutter-spring-kotlin
 
 LaTeX/XeTeX
 ~~~~~~~~~~~
